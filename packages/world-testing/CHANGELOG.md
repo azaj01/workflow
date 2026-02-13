@@ -1,5 +1,13 @@
 # @workflow/world-testing
 
+## 4.1.0-beta.59
+
+### Patch Changes
+
+- Updated dependencies [[`8cfb438`](https://github.com/vercel/workflow/commit/8cfb43808b2c7fc9435cd514652baf10ad924c45)]:
+  - @workflow/cli@4.1.0-beta.58
+  - workflow@4.1.0-beta.58
+
 ## 4.1.0-beta.58
 
 ### Patch Changes

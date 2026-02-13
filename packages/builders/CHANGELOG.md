@@ -1,5 +1,14 @@
 # @workflow/builders
 
+## 4.0.1-beta.49
+
+### Patch Changes
+
+- [#1031](https://github.com/vercel/workflow/pull/1031) [`1c11573`](https://github.com/vercel/workflow/commit/1c1157340d88c60c7c80c0789c111050b809ab77) Thanks [@karthikscale3](https://github.com/karthikscale3)! - Refactor and enhance web-shared observability UI components and update builders base behavior.
+
+- Updated dependencies [[`1c11573`](https://github.com/vercel/workflow/commit/1c1157340d88c60c7c80c0789c111050b809ab77)]:
+  - @workflow/core@4.1.0-beta.58
+
 ## 4.0.1-beta.48
 
 ### Patch Changes
