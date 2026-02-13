@@ -1,5 +1,16 @@
 # @workflow/cli
 
+## 4.1.0-beta.58
+
+### Patch Changes
+
+- [#1043](https://github.com/vercel/workflow/pull/1043) [`8cfb438`](https://github.com/vercel/workflow/commit/8cfb43808b2c7fc9435cd514652baf10ad924c45) Thanks [@TooTallNate](https://github.com/TooTallNate)! - Use `@vercel/cli-auth` for auth token reading and OAuth refresh
+
+- Updated dependencies [[`1c11573`](https://github.com/vercel/workflow/commit/1c1157340d88c60c7c80c0789c111050b809ab77), [`5213309`](https://github.com/vercel/workflow/commit/5213309073440515de5212c61538e73d267461e7)]:
+  - @workflow/web@4.1.0-beta.34
+  - @workflow/builders@4.0.1-beta.49
+  - @workflow/core@4.1.0-beta.58
+
 ## 4.1.0-beta.57
 
 ### Patch Changes

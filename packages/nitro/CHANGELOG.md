@@ -1,5 +1,15 @@
 # @workflow/nitro
 
+## 4.0.1-beta.53
+
+### Patch Changes
+
+- Updated dependencies [[`1c11573`](https://github.com/vercel/workflow/commit/1c1157340d88c60c7c80c0789c111050b809ab77)]:
+  - @workflow/builders@4.0.1-beta.49
+  - @workflow/core@4.1.0-beta.58
+  - @workflow/rollup@4.0.0-beta.15
+  - @workflow/vite@4.0.0-beta.8
+
 ## 4.0.1-beta.52
 
 ### Patch Changes
